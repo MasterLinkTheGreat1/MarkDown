@@ -36,6 +36,10 @@
   color: maroon;
 }
 
+.green {
+  color: greenyellow;
+}
+
 body {
   background-color: #121212;
   color: #aaaaaa
